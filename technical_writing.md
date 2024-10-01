@@ -1,3 +1,5 @@
+# Spring에 S3적용할 때, IAM으로 보안 곁들이기.
+
 # AWS S3란?
 
 Amazon Simple Storage Service(Amazon S3)는 AWS에서 제공하는 객체 스토리지 서비스이다.
